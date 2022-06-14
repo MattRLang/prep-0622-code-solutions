@@ -13,3 +13,4 @@ person.job = 'paramedic';
 console.log('this person works as a', person.job);
 person.previous = 'Pirate';
 console.log('this person formerly worked as', person.previous);
+console.log(person);
